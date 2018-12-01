@@ -3,38 +3,6 @@ Better Microsoft Rewards Bot
 1. What is it and what does it do?
 Better Microsoft Rewards Bot is the best professional automation tool to earn Microsoft points while searching Bing. Period.
 
-1.2. Features
-- Supports work and personal account.
-- Supports custom Redditbot to share extra points per installation and country.
-- Supports daily dashboard tasks and all quizzes (3-5 questions, multiple-choice and drag and drop style).
-- Supports extra point file with exported url rewards
-- Supports search calculation and the search matches daily Microsoft Points 
-- Supports track current account and ip.
-- Supports Australia, France, Germany, U.K.
-- Supports autostart and autoclose with Windows task scheduler.
-- Supports migrate old settings.
-- Supports custom Windows controls in setting tabs.
-- Supports random order or sorted list of accounts in autorotate.
-- Supports log: Settings, ip, score, balance, errorlog and export log to text file.
-- Supports stealthier custom user agent (desktop) and proxy settings for each account.
-- Supports faster check earned Microsoft points.
-- Supports faster auto skip temporarily suspended accounts.
-- Supports stealthier global custom desktop and mobile user agent.
-- Supports multiple accounts: auto rotate through all accounts. A text file with the credentials is required.
-- Supports auto and manual mode for auto and manual searches.
-- Supports a custom wordlist. A text file is required.
-- Supports multithreading (requires multiple Windows users).
-- Supports Tor (Proxy settings and Identity switcher).
-- Supports free Ip2location lite database.
-- Supports custom searches in desktop and mobile version of Bing.
-- Stealthier: the bot switches between desktop and mobile version.
-- Stealthier: Random sleep delay: Set a random time delay "5-10" to wait between searches.
-- Stealthier: Random searches count: Set a random number of searches "30-50" for searches.
-- Stealthier: Random sleep between authentification "2-5" minutes to wait between accounts.
-- Stealthier: Simulate real user in all searches random click in searches.
-- Shows earned Microsoft points for each searches.
-- Faster: Stop searches when all points are earned. 
-- Maximize income: repeat searches until all points are earned (ignores searches count up to 2x)
 
 2. Requirements
 -Windows 10
